@@ -2,6 +2,8 @@
 Fue propuesto por  [Semillero Latam](https://www.linkedin.com/company/semillero-latam/) y se desarrollo en forma conjunta en equipo a lo largo de 4 sprint que duro la experiencia. Se trata de una pagina que ayuda a emprendedores a conectar con personas interesadas en sus productos/servicios por su localizacion. Se muestra informacion del proveedor mas cercano como su facebook, instagram, etc. Un administrador puede gestionar sus publicacion y a los proveedores. El login se realiza mediante autenticacion de la cuenta de Google.
 Utilizamos: OAuth 2.0, JWT, Java Mail Sender, Geocoding, Cloudinary.
 
+Nota: Para poder probarla va a tener que crear algunos proveedores y publicaciones.
+
 ## Configuraciones Generales
 
 ### Requisitos Previos para el back
